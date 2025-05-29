@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "modular-embassy-453413-s1",
+  "private_key_id": "f19d6e2e1fae9cdf4bda5bb522549fe88001e40e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDwWMhY6KbCGs1o\nBiNVoD0f0XmnrLJYe/FI1UKY7EL1IGYhCUzwwxxUZKllgfIsD2NxzY8OGKDU7JCF\nLnt3Ilb6MckXu8tCM/z28eqwcekX1XKr0NkOc2L25Z0X6if8s2zu8zaMT8unvYGP\nUZJH/n32yenr4C/H60AIBLPB2BqF5JxyXbum1kGaiPMWsi0fWt9WLVZFeWOn0+il\nMNNVqEGQl3pja5FjIBvlsdSZEMfyh4YAGA6jqQioO15b+JxgeHaU9v8MlRnv/7SA\n4P51MyeiNNwLzZSV76U19smltnaoeYjU6jnT4bpnD0yBv52gjZkRNak8Wh1jd0CB\nEVw4JsmdAgMBAAECggEABMONvQ1neMN1PNGaU7EoZQAO7D7lDhHu12W6uzM7pIYu\n4ArCJqeHYTjZjrSDq1Hmw7OyWTItxeqmdq1ULylUFgN0m+7R+Y70PaTP5Q1s9Fb7\nveIW2014MbKdaYLvpfeceiQB+cf/HmUIM2IHhzvJHWIlK9K2v7yu+Tm2omn5JJw4\nk/nV0/4gSxw97LlO0ewVNi6DLjoQ28ZSxobz+UW/y/4IyT2k3SAwMu299vxnDtRG\nudqO9Ky6CxQ5G+baSiWI5N6VcZm1qdnCOMM7NRXpfec2WnO4BYgmxeSb8J3VRze4\na01Y/LiPbU1KRYWrqU6sMcyF2MyyqAxynp2YYe829QKBgQD8FxDH+C4NWrJ9oVHD\nC12M4n7iaCLVDWUWMRJ2Hb69royDmQ9CgSA/AZmZldxSORr7QhHUpELV0cXRVWbF\nPnHEmGcSnTgfa3H5BFvspg08gVFekA19Vu7M979n37JlfC4EpvyiDxRCkCdAzmgr\nycIiCGTMVa89/UZWFIu2UTs5AwKBgQD0Exb99sufBGmqrOflAeC4SY/Vqj9JETur\n2z3+lAAqQ9M8TbmA/DM8QIjH+XnSTcFfKcSjYvwH6erF9KS4yJa/s79bWgyFJd/l\n86kj4KoKsmNXUSsCTonAY2NczVo1nzCWszJQnH3SIHiV4wuI5rEnt61DHoeBpD/C\n/xpwlmVg3wKBgQCIQXNZkqRZpX86dlp6IQeEodvRRlYlcCMGVqnS3Ar//XuHmdBs\nstyaEaRTJnQ6oREbY7+9frd9WPAiUJXG4RSfHX0Ay6fNG8czwI5rH+mhnYg8o4IX\nEEjs0rBLVdbYEcHR0+xTL/FUdRQybB5UJK5gtMa+x0V8LQy6dEp71fY7vwKBgBfz\nU5tCP4LwLOpJo0vOnl2XIl0mIqWp4kAf+HplzYpYM39EZUKp/OEZuBJfgbvIU4Ri\nFeCukuq34ojgU9WqIVjYa5usP3RFXi4zddKGdkksbiEgXucQC+ZsGlD9+a8vWtY+\n6V4NrS8UbqDOsdASSyoJlR/z+/oVwwgAfniz2WjjAoGBAOS9ZVH7IvP2Md0rEgdV\nFvWZygmxduZvdtuQgYsDgIHs7YBjdkyhKE6Jy7/QhancLIOu1OJqJkUmQqqjx2g2\nW70cZDAgFaIq9zQCN3yygMv4NF7J3ZtldjyMkQNOxNxStPwpuY9WAmWGeM2LfD3q\nj8Ly7lwnTvmtnMJjpfNvHya8\n-----END PRIVATE KEY-----\n",
+  "client_email": "product-fashion@modular-embassy-453413-s1.iam.gserviceaccount.com",
+  "client_id": "100545859761647240124",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/product-fashion%40modular-embassy-453413-s1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
