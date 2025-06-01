@@ -33,7 +33,7 @@ def main():
     # Simpan ke Google Sheets
     save_to_google_sheets(
         transformed_data,
-        '1mLOfJQLEqDFm6cNw8xbIRNORV5i_Ap4rrgo4wp_4O98',
+        '17xwdM5btKrvg4vp51G-CZdccSezFU2bSr5aCh3ahlWw',
         'Sheet1!A2'
     )
 
