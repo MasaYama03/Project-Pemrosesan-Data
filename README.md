@@ -98,4 +98,4 @@ Laporan ini akan menampilkan informasi tentang seberapa banyak baris kode yang t
 
 Pastikan Anda telah memiliki **kredensial Google Sheets API** yang valid untuk menyimpan data ke **Google Sheets**. Jika Anda belum mengonfigurasi kredensial, ikuti petunjuk di [Dokumentasi Google Credentials API](https://developers.google.com/workspace/guides/create-credentials).
 
-kemudian setelah mendapatkan credentials dalam bentuk json, anda bisa ke menu Enabled APIs & service untuk mengatur Google Sheets API menjadi enable
+kemudian setelah mendapatkan credentials dalam bentuk json, anda bisa ke menu Enabled APIs & service untuk mengatur Google Sheets API menjadi enable, setelah itu silakan membuat spreadsheet baru dan ambil idnya, kemudian silakan modifikasi code bagian spreadsheet_id menjadi id spreadsheet yang sudah dibuat. dan juga pastikan anda sudah mengaktifkan Google Sheets API
