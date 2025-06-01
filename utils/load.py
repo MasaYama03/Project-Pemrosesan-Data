@@ -6,7 +6,7 @@ def save_to_csv(df, filename="products.csv"):
     df.to_csv(filename, index=False)
 
 def save_to_google_sheets(df, spreadsheet_id, range_name):
-    creds = Credentials.from_service_account_file(r'C:\Users\yama\OneDrive - student.gunadarma.ac.id\Documents\Gunadarma\DBS Foundation - ML - Stupen\Project Pemrosesan Data\Fundamental-Pemrosesan-Data\google-sheets-api.json')
+    creds = Credentials.from_service_account_file('google-sheets-api.json')
     service = build('sheets', 'v4', credentials=creds)
     sheet = service.spreadsheets()
     
