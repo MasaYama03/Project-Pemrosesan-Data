@@ -12,3 +12,6 @@ coverage run -m unittest discover tests
 
 # melihat hasil report 
 coverage report -m
+
+# Url Google Sheets:
+https://docs.google.com/spreadsheets/d/17xwdM5btKrvg4vp51G-CZdccSezFU2bSr5aCh3ahlWw/edit?gid=0#gid=0
